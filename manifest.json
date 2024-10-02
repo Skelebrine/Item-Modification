@@ -1,0 +1,29 @@
+{
+	"version": "1.0.0",
+	"id": "Skelebrine.ItemMods",
+	"name": "Item Modification",
+	"description": "gaming",
+	"authors": ["Skelebrine"],
+	"frameworkVersion": "2.30.0",
+	"options": [
+		{
+			"name": "Holster",
+			"tooltip": "Some items are able to be holstered",
+			"type": "checkbox",
+			"contentFolders": ["Holster"]
+		},
+		{
+			"name": "Hide",
+			"tooltip": "Some items are able to pass frisks",
+			"type": "checkbox",
+			"contentFolders": ["Hide"]
+		},
+		{
+			"name": "RangeDamage",
+			"tooltip": "Some items maintain their damage over varied ranges",
+			"type": "checkbox",
+			"contentFolders": ["RangeDamage"]
+		}
+	],
+	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"]
+}

@@ -1,0 +1,104 @@
+{
+	"10f0653c-fe9c-4a43-98f1-18d20d18d9ab": {
+		"//": "DAK Gold Covert",
+		"ActorConfiguration": {
+			"DamageClose": 45,
+			"DamageNear": 40,
+			"DamageMedium": 35,
+			"DamageFar": 25
+		}
+	},
+	"4ad2be0d-e24f-47a2-bcc9-4c6d5f73d4ff": {
+		"//": "DAK Gold Covert Luxurious",
+		"ActorConfiguration": {
+			"DamageClose": 45,
+			"DamageNear": 40,
+			"DamageMedium": 35,
+			"DamageFar": 25
+		}
+	},
+
+	"028bcbf4-a0a3-42b5-beaf-163a777164e8": {
+		"//": "ICA19 Goldballer",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  60,
+			"DamageMedium": 45,
+			"DamageFar": 30
+		}
+	},
+	"ebff0c9a-e04d-4bc2-8f7a-e9c3cd6d6a93": {
+		"//": "ICA19 Shortballer",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  60,
+			"DamageMedium": 45,
+			"DamageFar": 30
+		}
+	},
+
+	"e55c71d6-cbf6-41b8-8838-2d1be1d07e1c": {
+		"//": "Custom 5mm",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  55,
+			"DamageMedium": 40,
+			"DamageFar": 25
+		}
+	},
+	"f755f824-bdf6-4ace-b416-abf3bae4b6d5": {
+		"//": "Custom 5mm DTI",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  55,
+			"DamageMedium": 40,
+			"DamageFar": 25
+		}
+	},
+	"8d7a3342-1229-4619-ae51-f4a462f9130d": {
+		"//": "Custom 5mm Ducky",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  55,
+			"DamageMedium": 40,
+			"DamageFar": 25
+		}
+	},
+	"05ccbb96-a1a0-4ee5-9586-cb9d9c02085e": {
+		"//": "Custom 5mm Makeshift Scrap",
+		"ActorConfiguration": {
+			"DamageClose": 75,
+			"DamageNear":  55,
+			"DamageMedium": 40,
+			"DamageFar": 25
+		}
+	},
+
+	"c8a09c31-a53e-436f-8421-a4dc4115f633": {
+		"//": "Krugermeier 2-2",
+		"ActorConfiguration": {
+			"DamageClose": 51,
+			"DamageNear":  46,
+			"DamageMedium": 36,
+			"DamageFar": 26
+		}
+	},
+	"b2d514ba-86d6-456a-be10-7592a30dcae1": {
+		"//": "Krugermeier 2-2 Dark",
+		"ActorConfiguration": {
+			"DamageClose": 51,
+			"DamageNear":  46,
+			"DamageMedium": 36,
+			"DamageFar": 26
+		}
+	},
+	"97f3ab46-e409-40dd-a0ba-8e9dd0b0345b": {
+		"//": "Krugermeier 2-2 Silver",
+		"ActorConfiguration": {
+			"DamageClose": 51,
+			"DamageNear":  46,
+			"DamageMedium": 36,
+			"DamageFar": 26
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"10f0653c-fe9c-4a43-98f1-18d20d18d9ab": {
+		"//": "DAK Gold Covert",
+		"HitmanCanConceal": true, 
+		"HolsterAbility": "eHolsteringAllowed",
+		"CarryAnimSetType": "EAST_CARRY_1HANDEDWEAPON",
+		"ItemHandsIdle": "IH_ONEHANDED",
+		"ItemHandsUse": "IH_ONEHANDED",
+		"ItemHandsCoverAnimLayer": "IH_ONEHANDED"
+	},
+	"4ad2be0d-e24f-47a2-bcc9-4c6d5f73d4ff": {
+		"//": "DAK Gold Covert Luxurious",
+		"HitmanCanConceal": true, 
+		"HolsterAbility": "eHolsteringAllowed",
+		"CarryAnimSetType": "EAST_CARRY_1HANDEDWEAPON",
+		"ItemHandsIdle": "IH_ONEHANDED",
+		"ItemHandsUse": "IH_ONEHANDED",
+		"ItemHandsCoverAnimLayer": "IH_ONEHANDED"
+	}
+}
